@@ -3,8 +3,6 @@
 
 **MaheshPulivarthi18/MaheshPulivarthi18**
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on cash flow minimizer.
 - 🌱 I’m currently learning django deployement of curr working deployement.
 - 🤔 I’m looking for help with for fixing production issues
