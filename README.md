@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaheshPulivarthi18&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshPulivarthi18&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshpulivarthi18&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
