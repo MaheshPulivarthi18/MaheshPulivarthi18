@@ -1,4 +1,6 @@
-<h3 align="center">👨‍💻 A passionate Software developer 👨‍💻</h3>
+<h1 align="center">👨‍💻 HII MATES 👨‍💻</h1>
+<img src="https://github.com/MaheshPulivarthi18/MaheshPulivarthi18/assets/134507390/8088c6c7-6d05-4cd7-95cc-399f52781750" alt="Description" style="max-width: 100%; height: auto; back-ground:cover">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshpulivarthi18&label=Profile%20views&color=0e75b6&style=flat" alt="MaheshPulivarthi18" /> </p>
 
