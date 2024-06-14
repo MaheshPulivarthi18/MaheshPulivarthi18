@@ -109,12 +109,19 @@
     </a>
 </p>
 
-<div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaheshPulivarthi18&show_icons=true&locale=en&layout=compact" alt="MaheshPulivarthi18" style="width: 49%;"/></p>
-    <p><a href="https://leetcode.com/mahesh_pulivarthi-123/"><img src="https://leetcode.card.workers.dev/mahesh_pulivarthi-123?theme=dark&font=baloo&extension=null&border=2&border_radius=8" alt="MaheshPulivarthi18" style="width: 49%;"/></a></p>
-</div>
-
-<div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=MaheshPulivarthi18&show_icons=true&locale=en" alt="MaheshPulivarthi18" style="width: 49%;"/></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshPulivarthi18&" alt="MaheshPulivarthi18" style="width: 49%;"/></p>
+<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px; justify-content: center;">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaheshPulivarthi18&show_icons=true&locale=en&layout=compact" alt="MaheshPulivarthi18" style="width: 400px;"/>
+    </div>
+    <div>
+        <a href="https://leetcode.com/mahesh_pulivarthi-123/">
+            <img src="https://leetcode.card.workers.dev/mahesh_pulivarthi-123?theme=dark&font=baloo&extension=null&border=2&border_radius=8" alt="MaheshPulivarthi18" style="width: 400px;"/>
+        </a>
+    </div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=MaheshPulivarthi18&show_icons=true&locale=en" alt="MaheshPulivarthi18" style="width: 400px;"/>
+    </div>
+    <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshPulivarthi18" alt="MaheshPulivarthi18" style="width: 400px;"/>
+    </div>
 </div>
