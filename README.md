@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **getMYnotion**
 - 🌱 I’m currently learning **saas architecture.**
 - 💬 Ask me about **django, Saas.**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/12PM0hOGT_rS0bLNsglHiuLC6w7BLHP32/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1nK3DtQXpNgsdeRJQ7egww2uhTXKE_OG_/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
