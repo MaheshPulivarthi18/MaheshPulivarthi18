@@ -1,58 +1,54 @@
-<h1 align="center">Mahesh Pulivarthi</h1>
+# Mahesh Pulivarthi
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=maheshpulivarthi18&label=Profile%20views&color=2F81F7&style=flat" alt="Profile views" />
-</p>
+### Software Engineer · Backend Systems · Distributed Systems
 
----
+I build backend systems and developer tools, with a focus on reliability, performance, observability, and the behavior of systems under load.
 
-### About Me
-- 🔧 I enjoy untangling distributed systems — microservices, queues, and the tracing that tells you what actually broke .
-- 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/mahesh-pulivarthi-210033279/)
+I enjoy understanding what happens beyond the happy path: how services communicate, how data moves through pipelines, how failures propagate, and how to make systems easier to operate.
+
+[Portfolio](https://my-me-one.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mahesh-pulivarthi-210033279/)
 
 ---
 
-### Connect With Me
+## Featured Projects
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/mahesh-pulivarthi-210033279/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-</p>
-
----
-
-### Skills
-
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="36" height="36"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="36" height="36"/>
-    <br/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="36" height="36"/>
-    <br/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
-</p>
+| Project | What it demonstrates |
+|---|---|
+| [ArxivLens](https://github.com/MaheshPulivarthi18/ArxivLens) | Distributed research-paper ingestion and semantic search, with Kafka, PostgreSQL/pgvector, and grounded answers. |
+| [NightShift](https://github.com/MaheshPulivarthi18/NightShift) | AI-assisted open-source workflows using isolated execution, independent review, and human approval gates. |
+| [postgres-connector](https://github.com/MaheshPulivarthi18/postgres-connector) | An asynchronous PostgreSQL ORM exploring typed models, relation loading, query composition, and transaction handling. |
+| [1billionrow](https://github.com/MaheshPulivarthi18/1billionrow) | A hands-on performance engineering guide covering streaming, byte-level parsing, worker threads, and aggregation. |
+| [OpenTelmetry](https://github.com/MaheshPulivarthi18/OpenTelmetry) | Practical notes and exercises on distributed tracing, context propagation, instrumentation, and telemetry pipelines. |
+| [MyMe](https://github.com/MaheshPulivarthi18/MyMe) | A terminal-inspired personal portfolio built as an interactive interface. |
 
 ---
 
-### GitHub Stats
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshPulivarthi18&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+## Technical Focus
+
+**Languages**  
+Go · TypeScript · JavaScript · Python · C++
+
+**Backend & APIs**  
+Node.js · FastAPI · Express · REST · MCP
+
+**Data & Messaging**  
+PostgreSQL · MySQL · Oracle · Redis · Kafka
+
+**Infrastructure & Observability**  
+Docker · Kubernetes · AWS · Linux · OpenTelemetry · Prometheus · Grafana
+
+---
+
+## Currently Exploring
+
+- Distributed systems design, messaging, and failure handling
+- Database internals, query execution, and efficient data access
+- Observability and end-to-end tracing across services
+- Reliable AI agents, tool integrations, and sandboxed execution
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mahesh-pulivarthi-210033279/)
+- [Portfolio](https://my-me-one.vercel.app/)
